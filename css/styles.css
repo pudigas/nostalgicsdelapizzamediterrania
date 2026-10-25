@@ -4,9 +4,7 @@ body{
     margin: 0 auto;
 }
 
-article.post {
-  padding-top: 50px;
+p {
   padding-right: 30px;
-  padding-bottom: 50px;
   padding-left: 80px;
 }
