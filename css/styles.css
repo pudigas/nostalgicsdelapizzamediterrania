@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    background-color: #FEF8EC;
+    background-color: #f8cd77;
 }
 
 body{
@@ -26,4 +26,8 @@ hr {
 
 li:not(:last-child) {
     margin-bottom: 5px;
+}
+
+a {
+  color: hotpink;
 }
