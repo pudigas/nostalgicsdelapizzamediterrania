@@ -9,6 +9,10 @@ body{
     margin: 0 auto;
     padding-bottom: 50px;
     padding-top: 50px;
+
+}
+
+p {
     text-indent: 50px;
     line-height: 1.5;
 }
