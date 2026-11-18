@@ -33,7 +33,7 @@ figcaption{
     margin-right: auto;
 }
 
-blockquote {
+blockquote.twitter-tweet {
     display: block;  
     margin-left: auto;
     margin-right: auto;
