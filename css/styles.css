@@ -20,6 +20,11 @@ article {
   padding-left: 60px;
 }
 
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 hr {
   display: block;
   margin-top: 0.5em;
